@@ -1,1 +1,1 @@
-## Default chromium extension template
+## Chromium extension template
