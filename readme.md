@@ -1,0 +1,1 @@
+## Default chromium extension template
